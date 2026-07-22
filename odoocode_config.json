@@ -1,0 +1,15 @@
+{
+  "output_dir": "./odoocode_output",
+  "num_ctx": 16384,
+  "temperature": 0.15,
+  "skills_dir": "./odoo-18.0-skills",
+  "model_groups": {
+    "coder": "odoo18-coder-v3:latest",
+    "planner": "odoo18-coder-v3:latest",
+    "critic": "odoo18-coder-v3:latest",
+    "embed": "nomic-embed-text:latest",
+    "lite": "odoo18-coder-v3:latest",
+    "standard": "odoo18-coder-v3:latest",
+    "ultra": "odoo18-coder-v3:latest"
+  }
+}

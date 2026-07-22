@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.gguf
+*.safetensors
+*.log
+*.db
+.env
+odoocode_output/
+forge_output/
+.odoo_memory/
+
